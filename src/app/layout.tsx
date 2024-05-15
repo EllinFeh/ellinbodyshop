@@ -7,7 +7,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Ellin Bodyshop",
   description: "Loja de suplementos",
-  
+  icons:{
+    icon: './icon.ico'
+  }
 };
 
 export default function RootLayout({
@@ -16,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-br">
+    <html className=" scroll-smooth" lang="pt-br">
       <body className={inter.className}>{children}</body>
     </html>
   );

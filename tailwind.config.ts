@@ -28,6 +28,7 @@ const config: Config = {
   plugins: [
     flowbite.plugin(),
     
+    
   ],
 
   
