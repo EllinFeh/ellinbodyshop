@@ -12,11 +12,12 @@ var config = {
         extend: {
             colors: {
                 blackr: '#09090B',
-                whiter: '#FFF6F3',
-                primary: '#34375A',
-                secundary: '#906F8D',
+                rox: '#1A0A33',
+                whiter: '#ffffff',
+                primary: '#ededed',
+                secundary: '#5F556F',
                 sechv: '#564254',
-                container: '#0F101C',
+                container: '#ededed',
             },
             backgroundImage: {
                 "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
