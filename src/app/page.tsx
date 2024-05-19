@@ -320,7 +320,7 @@ export default function Home() {
             </Card>
             <Card>
               <img className="size-[170px] hover:scale-110 duration-100" src="/images/creatina100pro.png" alt="Creatina" />
-              <p className="text-center mx-4 mt-6 font-medium"> Creatina Probiotica  100g - Chocolate</p>
+              <p className="text-center mx-4 mt-6 font-medium"> Creatina Probiotica Monohidratada 100g </p>
               <p className="text-center font-bold mt-4 text-xl"><span className="text-sm">R$</span>55,90 </p>
               <p className="text-center font-bold text-xs line-through mb-6">R$60,90 </p>
             </Card>
